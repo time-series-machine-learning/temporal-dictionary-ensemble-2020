@@ -1,0 +1,3 @@
+# The example notebook uses aeon. The results in the paper used the Java tsml toolkit,
+# see the README.
+aeon
